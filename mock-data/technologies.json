@@ -1,0 +1,13 @@
+{
+    "HTML": true,
+    "CSS": true,
+    "JavaScript": true,
+    "Vue": false,
+    "PHP": false,
+    "NodeJS": true,
+    "React": true,
+    "jQuery": false,
+    "Angular": true,
+    "SASS/SCSS": true,
+    "Git": false
+}
